@@ -1,0 +1,13 @@
+--How to Compile
+    In this directory, enter the following command:
+    $ make
+    It will generate the executable file "hw2" in "HW2/bin/".
+
+    If you wnat to remove it, please enter the following command:
+    $ make clean
+
+--How to Run
+    In this directory, enter the following command:
+    $ ../bin/<exe> <net file> <cell file> <output file>
+    e.g.:
+    $ ../bin/hw2 ../testcases/p2-1.nets ../testcases/p2-1.cells ../output/p2-1.out
